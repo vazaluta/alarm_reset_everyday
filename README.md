@@ -1,0 +1,2 @@
+# alarm_reset_everyday
+毎日設定時間が自動で変更されるアラーム
